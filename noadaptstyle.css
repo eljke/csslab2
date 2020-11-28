@@ -48,7 +48,7 @@ a:hover {
 #pic {
 	width: 330px;
 	height: 50px;
-	background: #fff url(images/bg.jpg) no-repeat;
+	background: #fff url(bg.jpg) no-repeat;
 }
 #bigbox1 {
    height:175px;
