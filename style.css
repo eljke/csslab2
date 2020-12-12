@@ -28,7 +28,7 @@
 }
 .maintitle {
     background: url(titlebg.jpg) no-repeat center;
-    background-size: 1000px;
+    background-size: cover;
     height: 200px;
     color: white;
     font-size: 24pt;
